@@ -7,12 +7,12 @@ badgeopolis
 
 We are exploring three specific ideas:
 
-1. Transform the backpack into a personal dashboard for a learner to track, analyze and inform their learning.
+Transform the backpack into a personal dashboard for a learner to track, analyze and inform their learning.
 
 Prototype: rethinking the landing page of the backpack to be a dashboard for both small and big data
 
 
-2. Make discovery a social and informed experience.
+Make discovery a social and informed experience.
 
 Prototype:
 
@@ -31,7 +31,7 @@ Prototype:
       * badge rank
 
 
-3. Customize the way that a learner can share their portfolios and data.
+Customize the way that a learner can share their portfolios and data.
 Prototypes: 
 
 
